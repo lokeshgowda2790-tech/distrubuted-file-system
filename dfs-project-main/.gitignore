@@ -1,0 +1,16 @@
+﻿# Build
+target/
+
+# IntelliJ / IDEA
+.idea/
+*.iml
+out/
+
+# Runtime dirs (do not commit chunks/logs)
+data/
+logs/
+
+# OS junk
+Thumbs.db
+.DS_Store
+gitc.py
